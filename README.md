@@ -11,6 +11,10 @@ A partir de 2012, Microsoft se convirtió en un usuario importante de GitHub, us
 **El 4 de junio de 2018, Microsoft anunció su intención de adquirir GitHub por 7.500 millones de dólares (~8.050 millones de dólares en 2021). El acuerdo se cerró el 26 de octubre de 2018. [41] GitHub continuó operando de forma independiente como comunidad, plataforma y negocio.  Bajo Microsoft, el servicio estaba dirigido por Nat Friedman de Xamarin , reportando a Scott Guthrie , vicepresidente ejecutivo de Microsoft Cloud and AI. Nat Friedman dimitió el 3 de noviembre de 2021; fue reemplazado por Thomas Dohmke.**
 
 ![https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg]
+![![GitHub-logo-2-imagen](https://github.com/andre12941/tarea/assets/61563288/a5f31852-af0b-433a-b04a-d972921aebc0)]
+
+![![logoms_660-660x432](https://github.com/andre12941/tarea/assets/61563288/63da6c31-f508-4f98-9883-3b045359c95f)]
+
 
 Mascota ###
 
